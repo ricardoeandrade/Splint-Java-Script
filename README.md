@@ -1,2 +1,2 @@
-# Sprint-Java-Script
+# Splint-Java-Script
 criando repositorio de java script
